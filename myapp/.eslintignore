@@ -1,0 +1,7 @@
+/build/
+/config/
+/dist/
+/*.js
+src/*
+/test/unit/coverage/
+/src/lib/mui/js/mui.js
